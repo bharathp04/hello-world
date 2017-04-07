@@ -1,3 +1,3 @@
 # hello-world
-My first test repository.
+My first tests repository..
 I am doing my MS.
